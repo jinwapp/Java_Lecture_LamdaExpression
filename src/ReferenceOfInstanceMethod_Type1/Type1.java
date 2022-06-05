@@ -34,7 +34,7 @@ public class Type1 {
         a1.abc();
         a2.abc();
         a3.abc();
-
+// 예제입니다.
 
     }
 }
