@@ -1,4 +1,4 @@
-package ReferenceOfInstanceMethod_Type1;
+package ReferenceOfInstanceMethod_Type1_1;
 
 interface A{
     void abc();
@@ -10,7 +10,7 @@ class B{
     }
 }
 
-public class Type1 {
+public class Type1_1 {
     public static void main(String[] args) {
         //#1. 인스턴스 메서드 참조 type1 익명이너클래스
         A a1 = new A(){
