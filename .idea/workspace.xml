@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e082b688-c16f-4e06-b1c4-d54414d22562" name="Changes" comment="람다식 표현 예제입니다." />
+    <list default="true" id="e082b688-c16f-4e06-b1c4-d54414d22562" name="Changes" comment="람다식 표현 예제입니다.">
+      <change afterPath="$PROJECT_DIR$/src/ReferenceOfArrayConstructor/ReferenceOfArrayConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReferenceOfClassConstructor_1/ReferenceOfClassConstructor_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReferenceOfClassConstructor_2/ReferenceOfClassConstructor_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReferenceOfInstanceMethod_Type2_2/ReferenceOfInstanceMethod_Type2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReferenceOfInstanceMethod_Type2_1/ReferenceOfInstanceMethod_Type2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReferenceOfInstanceMethod_Type2_1/ReferenceOfInstanceMethod_Type2_1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +48,48 @@
       <recent name="C:\Users\Jinw\Desktop\Backend Developer\Java\Java_Lecture_LamdaExpression\src\ReferenceOfInstanceMethod_Type1_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Type1_2">
-    <configuration name="Type1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReferenceOfInstanceMethod_Type1.Type1" />
+  <component name="RunManager" selected="Application.ReferenceOfClassConstructor_2">
+    <configuration name="ReferenceOfClassConstructor_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReferenceOfClassConstructor_2.ReferenceOfClassConstructor_2" />
+      <module name="Java_Lecture_LamdaExpression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReferenceOfClassConstructor_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceOfInstanceMethod_Type2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReferenceOfInstanceMethod_Type2_1.ReferenceOfInstanceMethod_Type2_1" />
+      <module name="Java_Lecture_LamdaExpression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReferenceOfInstanceMethod_Type2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceOfInstanceMethod_Type2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReferenceOfInstanceMethod_Type2_2.ReferenceOfInstanceMethod_Type2_2" />
+      <module name="Java_Lecture_LamdaExpression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReferenceOfInstanceMethod_Type2_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Type1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReferenceOfInstanceMethod_Type1_1.Type1_1" />
       <module name="Java_Lecture_LamdaExpression" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Type1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReferenceOfInstanceMethod_Type1_2.Type1_2" />
+    <configuration name="Type2_1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ReferenceOfInstanceMethod_Type2_1.B$ReferenceOfInstanceMethod_Type2_1" />
       <module name="Java_Lecture_LamdaExpression" />
       <extension name="coverage">
         <pattern>
@@ -68,10 +114,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ReferenceOfInstanceMethod_Type2_1" />
+      <item itemvalue="Application.ReferenceOfInstanceMethod_Type2_2" />
+      <item itemvalue="Application.ReferenceOfClassConstructor_2" />
+      <item itemvalue="Application.Type1_1" />
+      <item itemvalue="Application.Type2_1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Type1_2" />
-        <item itemvalue="Application.ReferenceOfInstanceMethod_Type1.Type1" />
+        <item itemvalue="Application.ReferenceOfClassConstructor_2" />
+        <item itemvalue="Application.ReferenceOfInstanceMethod_Type2_2" />
+        <item itemvalue="Application.ReferenceOfInstanceMethod_Type2_1" />
+        <item itemvalue="Application.Type2_1" />
+        <item itemvalue="Application.Type1_1" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654525666528</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="람다식 표현 예제입니다.">
+      <created>1654526323653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526323653</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
