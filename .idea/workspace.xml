@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e082b688-c16f-4e06-b1c4-d54414d22562" name="Changes" comment="람다식 표현 예제입니다.">
-      <change afterPath="$PROJECT_DIR$/src/ReferenceOfInstanceMethod_Type1_2/Type1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReferenceOfInstanceMethod_Type2_1/ReferenceOfInstanceMethod_Type2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReferenceOfStaticMethod/ReferenceOfStaticMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReferenceOfInstanceMethod_Type1/Type1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReferenceOfInstanceMethod_Type1_1/Type1_1.java" afterDir="false" />
-    </list>
+    <list default="true" id="e082b688-c16f-4e06-b1c4-d54414d22562" name="Changes" comment="람다식 표현 예제입니다." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654439706219</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="람다식 표현 예제입니다.">
+      <created>1654525666528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654525666528</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
